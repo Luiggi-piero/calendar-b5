@@ -1,0 +1,23 @@
+body {
+  background: #2C3639;
+}
+
+body > h1{
+    color: #fff;
+}
+
+.dropdown-menu{
+    width: auto;
+}
+.calendar-container button{
+    width: 40px;
+    height: 40px;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+  }
