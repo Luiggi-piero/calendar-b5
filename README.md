@@ -1,5 +1,5 @@
 ## Calendario personalizado 
-- bootstrap 5
+- Bootstrap 5
 - HTML
 - CSS
 
